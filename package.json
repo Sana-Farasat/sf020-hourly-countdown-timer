@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
+  "bin": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Sana",
+  "license": "MIT",
+  "description": "This is cli based countdown timer based on seconds",
   "dependencies": {
     "@types/inquirer": "^9.0.7",
     "chalk": "^5.3.0",
